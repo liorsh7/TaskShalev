@@ -1,0 +1,121 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+}
+wrappingdiv {  
+    }
+
+.ntxt {
+  font-size: 13px;  
+}
+.head1 {
+    font-size: 62px;
+    font-weight: 300;
+}
+.head2 { 
+    font-weight: 300;
+    font-size:32px;    
+}
+
+#div1 {  
+    background-repeat: no-repeat;
+    color: white;
+    height:900px;
+    width:auto;
+    background-size: cover;
+    }
+
+#div2 {
+ background-color: #fff;
+    color:#d2d2d2;
+}
+
+.innerdiv {
+    width:330px;
+    height:280px;
+    display:inline;
+    float:left;
+    color:white;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#design {
+    background-color: #f5989d;
+}
+#build {
+    background-color: #615f7d;
+    
+}
+#clients {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#howto {
+    background-color: #bd8cbf;
+}
+#signup {
+    width:760px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#perfect {
+    background-color: #82ca9c;
+}
+
+.look {
+     width:280px;
+    height:183px;
+    margin-right: 35px;
+    display:inline;
+    float:left;
+    color:#d2d2d2;
+;
+}
+#div3 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:auto;
+    height:880px;
+    color:white;
+}
+
+#div4 {
+    background-color: #82ca9c;
+    width:auto;
+    height:535px;
+    color: white;
+    padding-bottom:0px;
+
+}
+.reasons {
+     width:370px;
+    height:184px;
+    margin-right: 40px;
+    display:inline;
+    float:left;
+}
+
+#div5 {
+    background-color: #f6f7fa;
+    color:black;
+    width:auto;
+    height:628px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:20px;
+}
+
+#div6 {
+    background-color: #000000;
+    color: #b4b7bb;
+    padding-top:130px;
+    padding-left:20px;
+    height:500px;
+}
+
+ .resources {
+     width:100px;
+    height:160px;
+    margin-right: 103px;
+    float:left;     
+}
